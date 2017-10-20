@@ -1,0 +1,20 @@
+{
+  "name": "settimeout-tester",
+  "version": "1.0.0",
+  "description": "A test script for generating large numbers of timeouts",
+  "main": "timeout.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node timeout.js"
+  },
+  "keywords": [
+    "node",
+    "timeout",
+    "setTimeout",
+    "test",
+    "script"
+  ],
+  "author": "Connected Web",
+  "license": "ISC"
+}
