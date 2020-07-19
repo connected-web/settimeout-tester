@@ -1,6 +1,6 @@
 # Javascript setTimeout Tester
 
-To run: `npm test`
+To run: `npm start`
 
 Uses vanilla Javascript methods to simulate millions of setTimeout requests.
 
